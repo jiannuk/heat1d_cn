@@ -1,0 +1,6 @@
+heat1d_cn
+*.txt
+*.dSYM/
+.DS_Store
+.vscode/
+build/
